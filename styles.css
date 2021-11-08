@@ -85,7 +85,7 @@ h1 {
     grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
     grid-gap: 4rem;
     width: 100%;
-    max-width: 1280px;
+    max-width: 1260px;
     margin: 0 auto 6rem;
 }
 .project-tile{
@@ -119,7 +119,7 @@ h1 {
 
 .btn {
     display: inline-block;
-    padding: 1rem 2rem;
+    padding: .5rem 1rem;
     border-radius: 2px;
     margin-bottom: 1rem;
 }
